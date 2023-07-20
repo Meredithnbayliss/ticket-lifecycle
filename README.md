@@ -43,8 +43,17 @@ Example of user submitting a ticket. In this case, Ken is submitting a ticket re
 
 Ticket Assignment
 
-Support agent Jane signs in
-
+Support agent Jane signs in. She opens the ticket and assigns the ticket priority, SLA Plan, and assigns it to the correct agent who can help. In this example, she assigns it to agent John Doe.
+<p>
+<img src="https://i.imgur.com/RwpecJK.png" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<img src="https://i.imgur.com/5nLEZIz.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/bvrEKyG.png" alt="Disk Sanitization Steps"/>
+</p>
 <p>
 <img src="https://i.imgur.com/yM46WSh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
