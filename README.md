@@ -30,17 +30,18 @@ Intake
 
 
 
-Example of user submitting a ticket. In this case, Karen is submitting a ticket regarding the mobile banking system not working properly.
+Example of user submitting a ticket. In this case, Ken is submitting a ticket regarding Adobe reader not working properly.
 <p>
-<img src="https://i.imgur.com/dGqGawF.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gCptEng.png" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-<img src="https://i.imgur.com/OKkpq5m.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xJKQBbu.png" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 
-<
-In step 2, we create a Windows 10 Virtual Machine (VM) with 2-4 virtual CPU's inside Azure. We will also allow the Virtual Machine to create a new virtual network (Vnet). We will then create a username and password of our choice. This username and password will be used for the Remote Desktop function we are using to access the virtual machine we just created. 
-</p>
-<br />
+
+
+Ticket Assignment
 
 <p>
 <img src="https://i.imgur.com/zUJXPhs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
