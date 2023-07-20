@@ -43,8 +43,10 @@ Example of user submitting a ticket. In this case, Ken is submitting a ticket re
 
 Ticket Assignment
 
+Support agent Jane signs in
+
 <p>
-<img src="https://i.imgur.com/zUJXPhs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yM46WSh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In step 3, we open the Remote Desktop Connection app on our computer. A remote desktop is an internet-enabled program or operating system feature that lets someone access a computer from a different location, just as if they were interacting with the device locally. We will be using this to connect to the Virtual Machine we created in Azure. 
