@@ -25,12 +25,19 @@ In this tutorial, I will outline the lifecycle of a ticket from intake to resolu
 
 <h2>Lifecycle Stages</h2>
 
-In Step 1: We create a Resource Group inside Azure.
+Intake
 
+
+
+
+Example of user submitting a ticket. In this case, Karen is submitting a ticket regarding the mobile banking system not working properly.
 <p>
-<img src="https://i.imgur.com/NLmkO3I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dGqGawF.png" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+<br />
+<img src="https://i.imgur.com/OKkpq5m.png" alt="Disk Sanitization Steps"/>
+
+<
 In step 2, we create a Windows 10 Virtual Machine (VM) with 2-4 virtual CPU's inside Azure. We will also allow the Virtual Machine to create a new virtual network (Vnet). We will then create a username and password of our choice. This username and password will be used for the Remote Desktop function we are using to access the virtual machine we just created. 
 </p>
 <br />
