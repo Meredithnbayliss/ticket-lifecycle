@@ -58,7 +58,7 @@ Support agent Jane signs in. She opens the ticket and assigns the ticket priorit
 <img src="https://i.imgur.com/29qx7z0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
-Working the issue
+Working the issue and Resolution
 
 Agent John.Doe signs in
 </p>
