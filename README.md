@@ -43,7 +43,7 @@ Example of user submitting a ticket. In this case, Ken is submitting a ticket re
 
 Ticket Assignment
 
-Support agent Jane signs in. She opens the ticket and assigns the ticket priority, SLA Plan, and assigns it to the correct agent who can help. In this example, she assigns it to agent John Doe.
+Support agent Jane signs in. She opens the ticket and assigns the ticket priority, SLA Plan, and assigns it to the correct agent who can help. In this example, she communicates with agent John Doe and assigns this ticket to him.
 <p>
 <img src="https://i.imgur.com/RwpecJK.png" alt="Disk Sanitization Steps"/>
 </p>
@@ -55,8 +55,33 @@ Support agent Jane signs in. She opens the ticket and assigns the ticket priorit
 <img src="https://i.imgur.com/bvrEKyG.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/yM46WSh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/29qx7z0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+Working the issue
+
+Agent John.Doe signs in
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/Q0PJaSD.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br/>
+Agent John works the issue and communicates back to agent Jane.
+
+He also makes sure to switch the status of the issue from open to resolved:
+</p>
+<br />
+<img src="https://i.imgur.com/ayCpGWM.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/itpkr87.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In step 3, we open the Remote Desktop Connection app on our computer. A remote desktop is an internet-enabled program or operating system feature that lets someone access a computer from a different location, just as if they were interacting with the device locally. We will be using this to connect to the Virtual Machine we created in Azure. 
+<img src="https://i.imgur.com/zFIInip.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<img src="https://i.imgur.com/niXgjnv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
