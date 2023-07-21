@@ -70,7 +70,7 @@ Agent John.Doe signs in
 <br/>
 Agent John works the issue and communicates back to agent Jane.
 
-He also makes sure to switch the status of the issue from open to resolved:
+He also makes sure to switch the status of the issue from open to resolved. Support agent Jane sees in her portal that agent John has left her a message and that the ticket is now closed:>
 </p>
 <br />
 <img src="https://i.imgur.com/ayCpGWM.png" alt="Disk Sanitization Steps"/>
@@ -85,3 +85,10 @@ He also makes sure to switch the status of the issue from open to resolved:
 </p>
 <img src="https://i.imgur.com/niXgjnv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+
+This was a very simplistic scenario of the creation of a ticket by a user, how the ticket is assigned and displays the communication of a ticket between agents; subsequently resulting in a resolution.
+
+There are additional scenarios that can also happen while a ticket is being assessed. A ticket can either be reassigned to a different department, escalated in severeity level, or needs to be both reassigned to a more qualified agent/department to handle the issue, depending on business impacts.
+
+I hope this tutorial helps you understand and have a better general overview of a life-cycle of a ticket. Help desk agents can expect to regularly deal with anywere between 10 to 100 tickets during their day depeneding on the company size.
